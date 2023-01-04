@@ -1,0 +1,62 @@
+{
+    "AL": {
+        "name": "Alabama",
+        "capital": "Montgomery",
+        "lat": "32.361538",
+        "long": "-86.279118"
+    },
+    "AK": {
+        "name": "Alaska",
+        "capital": "Juneau",
+        "lat": "58.301935",
+        "long": "-134.419740"
+    },
+    "AZ": {
+        "name": "Arizona",
+        "capital": "Phoenix",
+        "lat": "33.448457",
+        "long": "-112.073844"
+    },
+    "AR": {
+        "name": "Arkansas",
+        "capital": "Little Rock",
+        "lat": "34.736009",
+        "long": "-92.331122"
+    },
+    "CA": {
+        "name": "California",
+        "capital": "Sacramento",
+        "lat": "38.555605",
+        "long": "-121.468926"
+    },
+    "CO": {
+        "name": "Colorado",
+        "capital": "Denver",
+        "lat": "39.7391667",
+        "long": "-104.984167"
+    },
+    "CT": {
+        "name": "Connecticut",
+        "capital": "Hartford",
+        "lat": "41.767",
+        "long": "-72.677"
+    },
+    "DE": {
+        "name": "Delaware",
+        "capital": "Dover",
+        "lat": "39.161921",
+        "long": "-75.526755"
+    },
+    "FL": {
+        "name": "Florida",
+        "capital": "Tallahassee",
+        "lat": "30.4518",
+        "long": "-84.27277"
+    },
+    "GA": {
+        "name": "Georgia",
+        "capital": "Atlanta",
+        "lat": "33.76",
+        "long": "-84.39"
+    }
+}
