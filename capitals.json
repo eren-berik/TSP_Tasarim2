@@ -1,6 +1,6 @@
 {
-    "AL": {
-        "name": "Alabama",
+    "AL1": {
+        "name": "Alabama_Start",
         "capital": "Montgomery_Start",
         "lat": "32.361538",
         "long": "-86.279118"
@@ -59,8 +59,8 @@
         "lat": "33.76",
         "long": "-84.39"
     },
-    "AL": {
-        "name": "Alabama",
+    "AL2": {
+        "name": "Alabama_Finish",
         "capital": "Montgomery_Finish",
         "lat": "32.361539",
         "long": "-86.279119"
