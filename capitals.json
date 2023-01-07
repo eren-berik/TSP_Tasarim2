@@ -58,5 +58,11 @@
         "capital": "Atlanta",
         "lat": "33.76",
         "long": "-84.39"
-    }
+    },
+    "AL": {
+        "name": "Alabama",
+        "capital": "Montgomery",
+        "lat": "32.361538",
+        "long": "-86.279118"
+    },
 }
