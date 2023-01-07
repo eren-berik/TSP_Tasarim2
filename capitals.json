@@ -59,10 +59,10 @@
         "lat": "33.76",
         "long": "-84.39"
     },
-  "SC": {
-    "name": "South Carolina",
-    "capital": "Columbia",
-    "lat": "34.000",
-    "long": "-81.035"
-  }
+  "AL2": {
+        "name": "Alabama_2",
+        "capital": "Montgomery_2",
+        "lat": "32.361539",
+        "long": "-86.279119"
+    }
 }
