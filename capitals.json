@@ -5,12 +5,6 @@
         "lat": "32.361538",
         "long": "-86.279118"
     },
-    "AK": {
-        "name": "Alaska",
-        "capital": "Juneau",
-        "lat": "58.301935",
-        "long": "-134.419740"
-    },
     "AZ": {
         "name": "Arizona",
         "capital": "Phoenix",
@@ -52,6 +46,12 @@
         "capital": "Tallahassee",
         "lat": "30.4518",
         "long": "-84.27277"
+    },
+    "AK": {
+        "name": "Alaska",
+        "capital": "Juneau",
+        "lat": "58.301935",
+        "long": "-134.419740"
     },
     "GA": {
         "name": "Georgia",
